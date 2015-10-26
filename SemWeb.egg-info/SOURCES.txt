@@ -1,0 +1,8 @@
+setup.py
+SemWeb/__init__.py
+SemWeb/creator.py
+SemWeb/locator.py
+SemWeb.egg-info/PKG-INFO
+SemWeb.egg-info/SOURCES.txt
+SemWeb.egg-info/dependency_links.txt
+SemWeb.egg-info/top_level.txt
